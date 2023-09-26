@@ -30,15 +30,13 @@
       [
         "expo-notifications",
         {
-          "icon": "./local/assets/favicon.png",
-          "color": "#ffffff",
-          "sounds": [
-            "./local/assets/notification-sound.wav",
-            "./local/assets/notification-sound-other.wav"
-          ]
+          "icon": "./local/assets/icon.png",
+          "color": "#gjdsff"
         }
       ]
     ]
+    
+    
   }
 
 }
